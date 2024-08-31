@@ -1,5 +1,5 @@
 ### 👋 Hi there 
-I am Iván Damián Vera, a Web Developer with 5 years of experience specializing in e-commerce, interface design, CLI tools, and leading frontend development teams. Passionate about creating tools that I use in my daily work, and always eager to learn more, especially in the field of artificial intelligence.
+I am Iván, a Web Developer with 5 years of experience specializing in e-commerce, interface design, CLI tools, and leading frontend development teams. Passionate about creating tools that I use in my daily work, and always eager to learn more, especially in the field of artificial intelligence.
 
 - 🔭 I’m currently working as Head of Frontend Development at [E-CRUCE](https://www.e-cruce.com/)
 - ⚡ Skilled in Javascript/Typescript, NodeJS, React, VTEX, among others.
@@ -11,4 +11,4 @@ I am Iván Damián Vera, a Web Developer with 5 years of experience specializing
 <img src="https://profile-counter.glitch.me/ivanvera-nvm/count.svg" />
 
 ### 📫 Reach me at 
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/ivanvera-nvm/)
