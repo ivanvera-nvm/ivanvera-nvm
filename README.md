@@ -1,5 +1,3 @@
-![github](https://user-images.githubusercontent.com/31445077/87033150-57166f80-c203-11ea-990c-71a1e0d34ff4.png)
-
 ### 👋 Hi there 
 I am Iván Damián Vera, a Web Developer with 5 years of experience specializing in e-commerce, interface design, CLI tools, and leading frontend development teams. Passionate about creating tools that I use in my daily work, and always eager to learn more, especially in the field of artificial intelligence.
 
