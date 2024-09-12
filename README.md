@@ -3,7 +3,7 @@ Web Developer with 5 years of experience specializing in e-commerce, interface d
 
 - 🔭 Currently working as Head of Frontend Development at [E-CRUCE](https://www.e-cruce.com/)
 - ⚡ Proficient in Javascript/Typescript, NodeJS, React, VTEX, among others.
-- 🎸 In free time, enjoy playing guitar, exploring horror literature, gaming, and spending time with cats.
+- 🎸 In free time, enjoy playing guitar, exploring horror literature, gaming, and spending time with my cats.
 
 <hr />
 
